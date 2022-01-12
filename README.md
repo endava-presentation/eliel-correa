@@ -15,4 +15,4 @@ Soy un tipo alegre, me gusta pasar momentos en familia, responsable y muy compro
 - Ratatouille
 
 ### Descripción de la foto:
-![CBF](cbf.jpg)
+![CBF](cbf.jfif)
