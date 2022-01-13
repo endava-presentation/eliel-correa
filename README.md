@@ -8,7 +8,7 @@ Soy un tipo alegre, me gusta pasar momentos en familia, responsable y muy compro
 ### Mis hobbies son:
 - Me gusta Cantar
 - me gusta jugar video juegos
--  hacer deporte
+- me gusta jugar Ping Pong y basket
 
 ### Mis series y películas favoritas son:
 - One piece 
