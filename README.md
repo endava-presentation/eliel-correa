@@ -2,6 +2,7 @@
 # Presentación
 
 ## Breve descripción personal
+provando sincronizacion con VSCode
 Soy un tipo alegre, me gusta pasar momentos en familia, responsable y muy comprometido
 
 
